@@ -1,4 +1,4 @@
-# Airline-Management-System
+# Airline Management System
 My Batchulars 4th semester project.
 
 Demo => [Click Me](https://youtu.be/byr3deyIMkY)
