@@ -1,7 +1,7 @@
 # Airline-Management-System
 My Batchulars 4th semester project.
 
-Demo => <a href="https://youtu.be/byr3deyIMkY">https://youtu.be/byr3deyIMkY<a/>
+Demo => <a href="https://youtu.be/byr3deyIMkY" target="_black">https://youtu.be/byr3deyIMkY<a/>
 
 <br/>
 --- App ScreenShots --- <br/>
