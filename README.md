@@ -1,5 +1,5 @@
 # Airline Management System
-My Batchulars 4th semester project.
+My Bachelor's 4th semester project.
 
 Demo => [Click Me](https://youtu.be/byr3deyIMkY)
 
